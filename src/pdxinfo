@@ -1,0 +1,7 @@
+name=Traingle
+author=Chris Klimowski
+description=A game about getting trains to where they need to be
+bundleID=com.chrisklimowski.traingle
+version=0.1
+buildNumber=100
+imagePath=SystemAssets
